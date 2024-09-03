@@ -90,12 +90,12 @@ const rickroll = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     
         <div class="mx-auto my-3 text-center">
             <h1 class="text-xl mx-2 inline-block text-center font-prata align-middle">My Mail: </h1>
-            <a class="text-sm font-lato inline-block text-center align-middle hover:bg-slate-300 p-1" href="mailto:diana.milena.kostic@gmail.com">diana.milena.kostic@gmail.com</a>
+            <a class="text-sm font-lato inline-block text-center align-middle hover:bg-slate-300 p-1" href="mailto:hi@google.com">alice@mail.com</a>
         </div>
 
         <div class="mx-auto my-3 text-center">
             <h1 class="text-xl mx-2 inline-block text-center font-prata align-middle">My Number: </h1>
-            <a class="text-sm font-lato inline-block text-center align-middle hover:bg-slate-300 p-1" href="tel:+34420591233">+34 420 59 12 33</a>
+            <a class="text-sm font-lato inline-block text-center align-middle hover:bg-slate-300 p-1" href="tel:+31422541233">+31 630 53 12 33</a>
         </div>
     </div> 
 
