@@ -77,7 +77,7 @@ const rickroll = "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
             </div>  
 
             <div class="m-4">
-                <a class="relative inline-block group focus:outline-none focus:ring" href="https://wa.me/+344422591242">
+                <a class="relative inline-block group focus:outline-none focus:ring" href="https://wa.me">
                     <span class=" absolute inset-0 transition-transform translate-x-1.5 translate-y-1.5 bg-slate-200 group-hover:bg-slate-300 group-hover:translate-y-0 group-hover:translate-x-0"></span>
 
                     <span class=" relative inline-block px-8 py-3 text-sm font-bold tracking-widest text-black uppercase border-2 border-current group-active:text-opacity-75">
