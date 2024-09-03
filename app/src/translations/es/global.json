@@ -1,0 +1,10 @@
+{
+    "header": {
+        "hello-world": "Hola Mundo"
+    },
+    "home":{
+        "skills-h1": "Habilidades",
+        "langskills-h1": "Habilidades de Idiomas",
+        "faq-h1": "Dudas Frequentes"
+    }
+}
