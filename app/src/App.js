@@ -2,7 +2,6 @@
 import './App.css';
 import Body from './components/body';
 import Home from './components/home';
-import ReactDOM from "react-dom/client";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Contact from './components/contact';
 import About from './components/about';
